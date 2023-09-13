@@ -11,7 +11,14 @@ const livros = [
     {
         id : 2,
         titulo : "O Hobbit"
+    },
+    
+    {
+        id : 3,
+        titulo : "Gerra e Paz"
     }
+
+
    
 ];
 
